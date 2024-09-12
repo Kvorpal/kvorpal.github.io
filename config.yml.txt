@@ -1,0 +1,3 @@
+theme: jekyll-theme-minimal
+title: hola, soy lucas
+description: y esta es mi pagina de github
